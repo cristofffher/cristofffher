@@ -18,7 +18,7 @@ Hi, I am cristofher henrique software engineering student and system manager of 
 - 🔭 I’m currently working on [renderless-components](https://www.eb.mil.br)
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://www.microsoft.com/pt-br/)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://www.instagram.com/cristofhersouza/)
 - 
 **Languages and Tools:**  
 
