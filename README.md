@@ -1,10 +1,16 @@
 
 ### Nice to meet you!, I'm [Cristofher!](https://www.facebook.com/cristofher.souza.9/) 👋  ~</h1>
+
+##
+
+
 <br>
 <div align="center">
 <img src="https://i.imgur.com/EQjEQlx.gif">
   </div>
   <br>
+  
+  ##
   
 <a href="https://codesandbox.io/u/cristofffher">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
